@@ -5,7 +5,7 @@
     <item>
       <name>SetKeyboardType</name>
       <item>
-        <name>Set keyboardType = KeyboardType::MACBOOK</name>
+        <name>Set keyboardType = KeyboardT
         <identifier>remap.samples_setkeyboardtype_macbook</identifier>
         <autogen>--SetKeyboardType-- KeyboardType::MACBOOK</autogen>
       </item>
